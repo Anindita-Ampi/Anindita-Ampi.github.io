@@ -63,8 +63,7 @@ body{
 
 /* ABOUT */
 .about{
-    padding-top: 50px;
-    /* padding-bottom: 500px; */
+    padding: 50px 20px;
     margin-bottom: -150px;
 }
 .about .col-lg-5 {
@@ -81,6 +80,7 @@ body{
 .skills-bar p{
     margin-bottom: 6px;
     font-weight: 600;
+    text-align: left;
 }
 .progress{
     border-radius: 16px !important;
